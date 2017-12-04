@@ -1,3 +1,4 @@
+require "active_record"
 require "extensions/version"
 require "extensions/acts_as_address"
 
